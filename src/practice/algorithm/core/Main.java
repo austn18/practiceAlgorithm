@@ -6,4 +6,3 @@ public class Main {
 	System.out.println("start to practice algorithm ");
     }
 }
-tu
