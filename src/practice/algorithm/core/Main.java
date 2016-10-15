@@ -1,8 +1,14 @@
 package practice.algorithm.core;
 
-public class Main {
+public class Main{
 
+    Starter starter = null;
     public static void main(String[] args) {
-	System.out.println("start to practice algorithm ");
+        Main main = new Main();
     }
+
+    public void starter(Starter starter){
+        starter.starter();
+    }
+
 }
